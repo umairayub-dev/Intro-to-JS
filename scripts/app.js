@@ -27,4 +27,29 @@
 // num = num + 1
 // num+=1
 
-// DAY 02 (10 APRIL)
+// DAY 02 (16 APRIL)
+
+// var user = "umair"
+// =, == and ===
+// String.toUpperCase()
+// String.toUpperCase()
+
+// if (user == "umair") {
+//     console.log('welcome')
+// }else {
+//     console.log('unauthorized user')
+// }
+
+// if, if else, nested ifs
+// var array = []
+// array.push() Add to element to the end of the array
+// array.pop() Remove and return the last element from the array
+// array.slice() Return copy of a section of array
+// array.shift()  Remove and return the first element from the array
+// array.unshift() Add element to the start of the array
+
+// Loops
+// for loop
+// for (var index = 0; index < 9; index++) {
+//     console.log(index)
+// }
